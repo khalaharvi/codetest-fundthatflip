@@ -1,0 +1,63 @@
+{
+	"borrowers": [{
+			"name": "Joe Smith",
+			"contact": {
+				"city": "Miami",
+				"state": "Fl",
+				"phone": "4059671808"
+      },
+      "funded": [
+        {
+          "address": "123 sample street",
+          "cost": 400000
+        },
+        {
+          "address": "456 sample street",
+          "cost": 500000
+        }
+      ]
+		},
+		{
+			"name": "Jeff Rover",
+			"contact": {
+				"city": "Seattle",
+				"state": "WA",
+				"phone": "6068990224"
+      },
+      "funded": [
+        {
+          "address": "123 sample street",
+          "cost": 400000
+        }
+      ]
+		},
+		{
+			"name": "Wanda Wonder",
+			"contact": {
+				"city": "Santa Monica",
+				"state": "CA",
+				"phone": "2109058912"
+      },
+      "funded": [
+        {
+          "address": "123 sample street",
+          "cost": 400000
+        }
+      ]
+		},
+		{
+			"name": "Amanda Reinhart",
+			"contact": {
+				"city": "Corona Del Mar",
+				"state": "CA",
+				"phone": "9496122716"
+      },
+      "funded": [
+        {
+          "address": "123 sample street",
+          "cost": 400000
+        }
+      ]
+		}
+	]
+}
